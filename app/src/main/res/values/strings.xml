@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scissor Paper Rock Game</string>
+    <string name="human_choice">Human Choice</string>
+    <string name="computer_choice">Computer Choice</string>
+    <string name="score_human_0_compute_0">Score: Human 0 Computer 0</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="rock">ROCK</string>
+</resources>
